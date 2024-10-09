@@ -21,7 +21,8 @@ The required Python libraries are listed in the `requirements.txt` file. Install
 ```bash
 pip install -r requirements.txt
 ```
-Installation
+# Installation
+
 # Clone the repository
 - git clone https://github.com/GladistonXD/html2pdfconverter.git
 - cd html2pdfconverter
