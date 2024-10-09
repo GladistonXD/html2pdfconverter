@@ -41,7 +41,7 @@ Installation
 
 # Example
 ```bash
-python pdfconverter.py --path "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" --input perlogo.html --output perlogo.pdf --page-size A4
+python html2pdfconverter.py --path "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" --input perlogo.html --output perlogo.pdf --page-size A4
 ```
 # Command-Line Options:
 -  -i, --input: Path to the input HTML file (required)
@@ -51,7 +51,7 @@ python pdfconverter.py --path "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"
 
 # Example of Shortened Command
 ```bash
-python pdfconverter.py -p "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" -i perlogo.html -o perlogo.pdf -s A3
+python html2pdfconverter.py -p "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" -i perlogo.html -o perlogo.pdf -s A3
 ```
 # Default Values:
 -  Page size defaults to A4.
