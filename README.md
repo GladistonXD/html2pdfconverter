@@ -29,8 +29,9 @@ git clone https://github.com/GladistonXD/html2pdfconverter.git
 cd html2pdfconverter
 ```
 # Install the required Python libraries
-- pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 # Install wkhtmltopdf
 -  Download and install wkhtmltopdf from the official website:
 -  https://wkhtmltopdf.org/downloads.html
