@@ -1,6 +1,6 @@
 # HTML to PDF Converter
 
-This is a Python script that converts HTML files to PDF made for conversion of .html `EPUB` template using the `wkhtmltopdf` tool and the `pdfkit` library. The script allows for customization of page size and file paths via command-line arguments.
+This is a Python script that converts HTML files to PDF made for conversion of .html `EPUB` with markers template using the `wkhtmltopdf` tool and the `pdfkit` library. The script allows for customization of page size and file paths via command-line arguments.
 
 ## Features
 
