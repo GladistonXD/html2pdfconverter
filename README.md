@@ -37,7 +37,7 @@ Installation
 ## Usage
 
 # Run the script from the command line with the following options
-- python pdfconverter.py -p <path-file> -i <input_html_file> -o <output_pdf_file> -s <page_size> 
+- python html2pdfconverter.py -p <path-file> -i <input_html_file> -o <output_pdf_file> -s <page_size> 
 
 # Example
 ```bash
