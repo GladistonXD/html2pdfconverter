@@ -24,9 +24,10 @@ pip install -r requirements.txt
 # Installation
 
 # Clone the repository
-- git clone https://github.com/GladistonXD/html2pdfconverter.git
-- cd html2pdfconverter
-
+```bash
+git clone https://github.com/GladistonXD/html2pdfconverter.git
+cd html2pdfconverter
+```
 # Install the required Python libraries
 - pip install -r requirements.txt
 
